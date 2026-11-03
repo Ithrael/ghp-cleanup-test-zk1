@@ -1,1 +1,1 @@
-cleanup capability test
+cleanup-note
